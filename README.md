@@ -11,8 +11,6 @@ This is a project for getting myself acquainted with integrating a rails app wit
 - Ruby
 - Rails
 - Postgresql
-- React
-- Redux
 
 ## Getting Started
 
@@ -21,11 +19,11 @@ To get a local copy up and running follow these simple example steps.
 
 Start by cloning the repository.
 
-`https://github.com/vickymarz/hello-world-react-rails.git`
+`https://github.com/vickymarz/hello-rails-back-end.git`
 
 Navigate to the created folder.
 
-`cd hello-world-react-rails.git`
+`cd hello-rails-back-end`
 
 ### Prerequisites
 
@@ -48,7 +46,7 @@ To run tests enter `rspec` command on your terminal
 👤 **Okoroji Victor aka Vickymarz**
 
 - GitHub: [@githubhandle](https://github.com/vickymarz)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/okoroji-victor-ebube-8791741a0)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/victorebubeokoroji)
 
 
 ## 🤝 Contributing
@@ -64,7 +62,6 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse
-- Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella)
 
 ## 📝 License
 
