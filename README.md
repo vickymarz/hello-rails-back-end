@@ -6,6 +6,13 @@
 
 This is a project for getting myself acquainted with integrating a rails app with react as one full-stack web application.
 
+## Frontend Live version
+
+[Live Version](https://greeting-app-frontend.herokuapp.com/)
+
+## Frontend Source Code
+
+[Source Code](https://github.com/vickymarz/hello-react-front-end)
 ## Built With
 
 - Ruby
